@@ -3,7 +3,7 @@
 
 ![RasoulJabbari's Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rasouljabbari&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rasouljabbari?theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rasouljabbari&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **rasouljabbari/rasouljabbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
