@@ -1,9 +1,7 @@
-### Hi there 👋
-![RasoulJabbari's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rasouljabbari&show_icons=true&theme=radical)
+### Hi there 👋 I am Rasoul
+![RasoulJabbari's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rasouljabbari&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=rasouljabbari&theme=dark&background=141321&locale=fa)](https://git.io/streak-stats)
 
 ![RasoulJabbari's Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rasouljabbari&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rasouljabbari&theme=dark&background=141321&locale=fa)](https://git.io/streak-stats)
 
 <!--
 **rasouljabbari/rasouljabbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
