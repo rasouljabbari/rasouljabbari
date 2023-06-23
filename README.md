@@ -1,9 +1,12 @@
 ### Hi there 👋 I am Rasoul
 
 #### Dedicated and passionate Front-End and React JS Developer with more than 3 years of experience.
-Strong background in web development. Proficient in JavaScript, and React JS.
-Expertise in creating responsive and visually appealing user interfaces. Collaborative team player with cross-functional experience. Deep understanding of UI/UX principles. 
-Excellent analytical and problem-solving skills. Effective communicator. Committed to delivering exceptional user experiences. Skilled in identifying and implementing solutions. Excited about front-end technology evolution. Eager to contribute to innovative web solutions
+#### Strong background in web development. Proficient in JavaScript, and React JS.
+#### Expertise in creating responsive and visually appealing user interfaces. Collaborative team player with cross-functional experience. Deep understanding of UI/UX principles. 
+#### Excellent analytical and problem-solving skills. Effective communicator.
+#### Committed to delivering exceptional user experiences.
+#### Skilled in identifying and implementing solutions. Excited about front-end technology evolution.
+#### Eager to contribute to innovative web solutions
 
 
 <!-- ![RasoulJabbari's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rasouljabbari&show_icons=true&theme=radical)
